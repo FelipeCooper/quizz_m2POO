@@ -1,0 +1,6 @@
+VF
+15
+Pedro Alvares Cabral descobriu Brasil?(V/F);
+V
+TESTE
+ado ado ado quem ta lendo é viado
