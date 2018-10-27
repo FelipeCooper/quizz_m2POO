@@ -2,5 +2,21 @@ VF
 15
 Pedro Alvares Cabral descobriu Brasil?(V/F);
 V
-TESTE
-ado ado ado quem ta lendo é viado
+
+VF
+10
+1+1+4-1=6?(V/F);
+F
+
+ME
+3
+10
+Quem Descobriu America?
+Papa
+Beto
+Pedro Alvares Cabral
+C
+RC
+5
+1+1 ?
+2

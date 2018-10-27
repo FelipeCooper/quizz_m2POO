@@ -2,7 +2,7 @@ package quiz;
 
 public class jogador {
 String nome,sobrenome;
-int pontuacao;
+int pontuacao=0;
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
@@ -15,10 +15,13 @@ int pontuacao;
 	public String getSobrenome() {
 		return this.sobrenome;
 	}
-	public void setPontuacao(int pontos) {
-		this.pontuacao = pontos;
-	}
 	public int getPontuacao() {
 		return this.pontuacao;
 	}	
+	public void acertou(int pontos) {
+		this.pontuacao =getPontuacao()+pontos;
+	}
+	public void errou(int pontos) {
+		this.pontuacao = getPontuacao()-pontos;
+	}
 }
