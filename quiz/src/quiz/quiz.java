@@ -12,8 +12,7 @@ public class quiz {
         System.out.println("Digite o nome do arquivo: ");
         arq1 = new arquivo(wr.next());
         questinario jogo1 = new questinario(arq1);
-        System.out.println(arq1.numeroDePerguntas());
-        jogo1.respostas(player1);
+        jogo1.respostas(player1,5);
     }
 
 }

@@ -4,13 +4,17 @@ Pedro Alvares Cabral descobriu Brasil?(V/F);
 V
 
 VF
+30
+Pedro Alvares Cabral descobriu a india?(V/F);
+F
+VF
 10
 1+1+4-1=6?(V/F);
 F
 
 ME
-3
 10
+3
 Quem Descobriu America?
 Papa
 Beto
